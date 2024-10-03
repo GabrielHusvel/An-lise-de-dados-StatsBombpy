@@ -1,0 +1,7 @@
+streamlit<1.38.99
+statsbombpy<1.14.99
+seaborn<0.13.99
+mplsoccer<1.4.99
+matplotlib<3.9.99
+numpy<2.1.99
+pandas<2.2.99
